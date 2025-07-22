@@ -1,0 +1,50 @@
+.login-button{
+  display: flex;
+  justify-content: flex-end;
+  margin: 20px;
+  cursor: pointer;
+}
+
+.navbar-section{
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  margin : 0 auto;
+}
+  
+
+.menu-list{
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-list li {
+  padding: 10px;
+}
+
+.menu-area{
+  display: flex;
+  justify-content: center;
+}
+
+.product-card {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.product-img{
+  display: flex;
+  justify-content: flex-end;
+}
